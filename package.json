@@ -1,0 +1,17 @@
+{
+  "name": "react-scheduler",
+  "version": "1.0.0",
+  "description": "Creating a scheduling application",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Paredes",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "snowpack": "^3.8.8"
+  }
+}
